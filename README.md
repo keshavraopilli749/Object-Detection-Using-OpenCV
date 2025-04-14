@@ -1,10 +1,4 @@
-Great! Here's the final version of your README file for your Object Detection using OpenCV project:
-
----
-
 # Object Detection Using OpenCV
-
-![Object Detection Banner](https://example.com/your_image_url.jpg)
 
 This project implements real-time object detection using OpenCV with a pre-trained MobileNet SSD model. It detects objects from a live webcam feed, draws bounding boxes around them, and labels each with a confidence score. Techniques like non-maximum suppression (NMS) are employed to avoid multiple detections of the same object.
 
@@ -23,7 +17,7 @@ This project implements real-time object detection using OpenCV with a pre-train
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/VirajVaitha123/object-detection-using-opencv.git
+   git clone https://github.com/keshavraopilli749/Object-Detection-Using-OpenCV.git
    ```
 
 2. **Install dependencies:**
@@ -57,18 +51,10 @@ Watch the following video for a quick demonstration of the object detection proc
 
 [![Object Detection Demo](https://img.youtube.com/vi/luWCJ2pWmhM/0.jpg)](https://www.youtube.com/watch?v=luWCJ2pWmhM)
 
-## Sample Detection:
-
-![Sample Detection](https://example.com/sample_detection_image.jpg)
-
-*Figure: Sample detection output showing bounding boxes and labels.*
-
 ## Author:
 **Keshav Rao**  
-[LinkedIn Profile](https://www.linkedin.com/in/keshav-rao-pilli-a18101337)
+[LinkedIn Profile](https://www.linkedin.com/in/keshav-rao-pilli-a18101337)  
+[GitHub Repository](https://github.com/keshavraopilli749/Object-Detection-Using-OpenCV)
 
 ---
-
-Make sure to replace the image URLs (`https://example.com/your_image_url.jpg` and `https://example.com/sample_detection_image.jpg`) with the actual URLs for the images you want to display. You can upload images to any image hosting platform or use direct URLs.
-
 
