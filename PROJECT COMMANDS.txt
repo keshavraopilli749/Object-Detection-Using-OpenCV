@@ -1,0 +1,2 @@
+1.cd "E:\MY PROJECTS FINAL\Object Detection Using OpenCV"
+2.python source/main_webcam.py
